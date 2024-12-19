@@ -4,4 +4,4 @@ O desafio era implementar o cálculo das principais métricas para avaliação d
 
 ## Phyton<br>
 
-Em Python foi feito no Colab para que o resultado fosse visto mais facilmente. A solução encontra-se [aqui](https://github.com/silvanat/exercicios_machine_learning/blob/main/reducao_dimensionalidade_imagens/reducao_dimensionalidade_imagem.ipynb).
+Em Python foi feito no Colab para que o resultado fosse visto mais facilmente. A solução encontra-se [aqui](https://github.com/silvanat/exercicios_machine_learning/blob/main/calculo_metricas_avaliacao_aprendizado/Calculo_Metricas_Avaliacao_Matriz_de_Confusao.ipynb).
