@@ -1,4 +1,4 @@
-# Desafio - Redução de dimensionalidade em imagens
+# Desafio - Cálculo de Métricas de Avaliação de Aprendizado
 
 O desafio era implementar o cálculo das principais métricas para avaliação de modelos de classificação de dados, como acurácia, sensibilidade (recall), especificidade, precisão e F-score. Para a leitura dos valores, foi criada uma matriz de confusão baseado em dados fictícios.<br><br>
 
